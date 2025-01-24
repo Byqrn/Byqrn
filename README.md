@@ -1,24 +1,20 @@
-# 👾 Byqrn  
+### 👾 **Byqrn**  
+**Premium Developer | Minecraft Innovator | YouTube Creator**
 
-**🚀 Premium Developer | 🎮 Minecraft Innovator | 🎥 YouTube Content Creator**  
+Welcome to my GitHub! I’m **Byqrn**, a developer focused on crafting powerful tools and platforms for Minecraft and EaglerCraft communities.
 
-Welcome to my GitHub! I'm **Byqrn**, a passionate coder building next-gen tools for **Minecraft** and **EaglerCraft** communities.  
+### 🔥 **Current Projects**
+- **[Blockverse](https://github.com/Byqrn/Blockverse)** – A marketplace & subscription platform for custom Minecraft skins, mods, and server plugins.
+- **Cipher Network** – A cracked Minecraft PvP server optimized for players with FPS and connection challenges.
 
-## 🔥 Current Projects  
-- **[Blockverse](https://github.com/Byqrn/Blockverse)**  
-  An EaglerCraft Marketplace & Subscription Platform for skins, mods, and server plugins.  
+### 🌟 **About Me**
+- Skilled in creating innovative tools for Minecraft, PvP, and modding communities.
+- YouTube content creator: **[@Byqrn](https://youtube.com/@Byqrnn)**.
+- Passionate about pushing the limits of coding and gaming.
 
-- **Cipher Network**  
-  A cracked Minecraft PvP server designed for players with FPS and internet challenges.  
-
-## 🌟 About Me  
-- 🛠 Skilled in crafting efficient code and innovative solutions.  
-- 🎮 Focused on PvP, cracked servers, and modding.  
-- 📹 Creating content to inspire and entertain at [YouTube](https://youtube.com/@Byqrnn).  
-
-## ✨ Connect with Me  
-📧 Email: **[flqmze@gmail.com](mailto:flqmze@gmail.com)**  
-📺 YouTube: **[@Byqrn](https://youtube.com/@Byqrnn)**  
+### ✨ **Connect**
+- 📧 Email: **[flqmze@gmail.com](mailto:flqmze@gmail.com)**
+- 📺 YouTube: **[@Byqrn](https://youtube.com/@Byqrnn)**
 
 ---
 
