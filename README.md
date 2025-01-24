@@ -1,4 +1,4 @@
-### 👾 **Byqrn**  
+### **Byqrn**  
 **Premium Developer | Minecraft Innovator | YouTube Creator**
 
 Welcome to my GitHub! I’m **Byqrn**, a developer focused on crafting powerful tools and platforms for Minecraft and EaglerCraft communities.
